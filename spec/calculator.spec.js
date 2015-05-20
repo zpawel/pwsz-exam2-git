@@ -9,7 +9,7 @@ describe('calculator', function ()
             expect(calculator.add(1, 2)).toEqual(3);
         });
     });
-<<<<<<< HEAD
+
     describe('subtract', function ()
     {
         it('should return difference between second and first number', function ()
@@ -17,6 +17,5 @@ describe('calculator', function ()
             expect(calculator.subtract(1, 2)).toEqual(1);
         });
     });
-=======
->>>>>>> master
+
 });
